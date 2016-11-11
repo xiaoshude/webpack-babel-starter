@@ -3,6 +3,8 @@ Webpack Babel Starter
 
 [![Build Status](https://travis-ci.org/topheman/webpack-babel-starter.svg?branch=master)](https://travis-ci.org/topheman/webpack-babel-starter)
 
+**NOTE**: This is the development channel, I'll be porting the project to webpack2 in the next weeks/months.
+
 A webpack starter kit with full development & build workflow, inspired by [topheman/react-es6-redux](https://github.com/topheman/react-es6-redux).
 
 What's in this boilerplate:
